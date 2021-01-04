@@ -1,0 +1,66 @@
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/iec101_server/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["34","8","(null)","1","10","1","2","2","1","0","(null)","(null)","双点","标度化值","CP24Time2a"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:{"name":["硬件接口序号","波特率","数据位","校验位","停止位","文件节点","ip地址","网关","DNS1","DNS2","APN","用户名","密码"],"value":[["8","9600","8","(null)","1","/dev/ttyS8","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/iec101_server.c(251)-iec101_run->into thread****************
+src/iec101_server.c(269)-iec101_run->cal:ioal:cot:lal:ban1:2:2:1:0
+use ip:(null)
+DEBUG_LIB60870: add entry (nextIndex:0)
+DEBUG_LIB60870: Events in FIFO: 1 (first: 0, last: 0)
+src/iec101_server.c(186)-iec101_send->yx:4:1---------------
+DEBUG_LIB60870: add entry (nextIndex:1)
+DEBUG_LIB60870: Events in FIFO: 2 (first: 0, last: 1)
+src/iec101_server.c(373)-data_update->na[1]:0
+src/iec101_server.c(381)-data_update->dit[16387]:252:0:0
+src/iec101_server.c(212)-iec101_send->yx:16387:252------------
+DEBUG_LIB60870: add entry (nextIndex:0)
+DEBUG_LIB60870: Events in FIFO: 1 (first: 0, last: 0)
+src/iec101_server.c(373)-data_update->na[3]:0
+src/iec101_server.c(381)-data_update->dit[16385]:222:0:0
+src/iec101_server.c(212)-iec101_send->yx:16385:222------------
+DEBUG_LIB60870: add entry (nextIndex:1)
+DEBUG_LIB60870: Events in FIFO: 2 (first: 0, last: 1)
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:252:277:226
+src/iec101_server.c(373)-data_update->na[3]:222
+src/iec101_server.c(381)-data_update->dit[16385]:222:244:199
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:252:277:226
+src/iec101_server.c(373)-data_update->na[3]:222
+src/iec101_server.c(381)-data_update->dit[16385]:222:244:199
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:252:277:226
+src/iec101_server.c(373)-data_update->na[3]:222
+src/iec101_server.c(381)-data_update->dit[16385]:223:244:199
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:252:277:226
+src/iec101_server.c(373)-data_update->na[3]:223
+src/iec101_server.c(381)-data_update->dit[16385]:223:245:200
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:252:277:226
+src/iec101_server.c(373)-data_update->na[3]:223
+src/iec101_server.c(381)-data_update->dit[16385]:222:245:200
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:252
+src/iec101_server.c(381)-data_update->dit[16387]:253:277:226
+src/iec101_server.c(373)-data_update->na[3]:222
+src/iec101_server.c(381)-data_update->dit[16385]:223:244:199
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:253
+src/iec101_server.c(381)-data_update->dit[16387]:253:278:227
+src/iec101_server.c(373)-data_update->na[3]:223
+src/iec101_server.c(381)-data_update->dit[16385]:223:245:200
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:253
+src/iec101_server.c(381)-data_update->dit[16387]:253:278:227
+src/iec101_server.c(373)-data_update->na[3]:223
+src/iec101_server.c(381)-data_update->dit[16385]:222:245:200
+src/iec101_server.c(402)-data_update->the size is:2:1
+src/iec101_server.c(373)-data_update->na[1]:253
+src/iec101_serve

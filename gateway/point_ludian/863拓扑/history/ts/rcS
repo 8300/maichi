@@ -1,0 +1,40 @@
+#!/bin/sh
+#   ---------------------------------------------
+#   Common settings
+#   ---------------------------------------------
+HOSTNAME=LT5211
+VERSION=1.0.1
+
+hostname $HOSTNAME
+
+mount -a
+mkdir -p /dev/pts
+mount -t devpts devpts /dev/pts
+mkdir -p /dev/shm
+mount -t tmpfs tmpfs /dev/shm
+echo /sbin/mdev > /proc/sys/kernel/hotplug
+
+mdev -s
+
+export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin
+source /etc/profile
+
+mkdir /var/run
+mkdir /var/empty
+mkdir /var/lib
+mkdir /var/log
+
+echo 10 > /proc/sys/net/ipv4/tcp_keepalive_time
+echo 10 > /proc/sys/net/ipv4/tcp_keepalive_intvl
+echo 10 > /proc/sys/net/ipv4/tcp_keepalive_probes
+
+
+ifup -a
+/usr/local/bin/sshd
+/usr/sbin/inetd
+/sbin/syslogd
+
+if [ -f /program/startup.sh ]; then
+   /program/startup.sh
+fi
+source /ts/install/ts.sh

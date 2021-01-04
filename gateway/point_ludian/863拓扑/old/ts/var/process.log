@@ -1,0 +1,112 @@
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["2","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"]]}
+src/mqtt.c(407)-hard_get_condition->p->payload:]}
+the run is reset !!!!!!!!!!!
+src/mqtt.c(292)-self_init->into mqtt
+src/mqtt.c(309)-self_init->Unable to connect.
+src/mqtt.c(282)-my_connect_callback->subscribe:+/hander/#
+src/mqtt.c(380)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号",

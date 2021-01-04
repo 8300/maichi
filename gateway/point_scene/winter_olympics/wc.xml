@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AllEquipCfgPack Count="25">
+  <E0 equip_no="113" equip_nm="温湿度1" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度1" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度1" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前        值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E0>
+  <E1 equip_no="114" equip_nm="温湿度2" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度2" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度2" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E1>
+  <E2 equip_no="115" equip_nm="温湿度3" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度3" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度3" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E2>
+  <E3 equip_no="116" equip_nm="温湿度4" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度4" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度4" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E3>
+  <E4 equip_no="117" equip_nm="温湿度5" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度5" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度5" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E4>
+  <E5 equip_no="118" equip_nm="温湿度6" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度6" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度6" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E5>
+  <E6 equip_no="119" equip_nm="温湿度7" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度7" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度7" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E6>
+  <E7 equip_no="120" equip_nm="温湿度8" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="温度8" lvl_level="2" val_max="30" val_min="0" restore_max="30" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度8" lvl_level="0" val_max="90" val_min="0" restore_max="90" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E7>
+  <E8 equip_no="231" equip_nm="四合1气体检测1" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度1" lvl_level="2" val_max="25" val_min="19" restore_max="25" restore_min="19" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度1" lvl_level="2" val_max="200" val_min="0" restore_max="200" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度1" lvl_level="2" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度1" lvl_level="2" val_max="50" val_min="0" restore_max="50" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E8>
+  <E9 equip_no="232" equip_nm="四合1气体检测2" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度2" lvl_level="2" val_max="25" val_min="19" restore_max="25" restore_min="19" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度2" lvl_level="2" val_max="200" val_min="0" restore_max="200" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度2" lvl_level="2" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度2" lvl_level="2" val_max="50" val_min="0" restore_max="50" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E9>
+  <E10 equip_no="233" equip_nm="四合1气体检测3" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度3" lvl_level="2" val_max="25" val_min="19" restore_max="25" restore_min="19" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度3" lvl_level="2" val_max="200" val_min="0" restore_max="200" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度3" lvl_level="2" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度3" lvl_level="2" val_max="50" val_min="0" restore_max="50" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E10>
+  <E11 equip_no="234" equip_nm="四合1气体检测4" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度4" lvl_level="2" val_max="25" val_min="19" restore_max="25" restore_min="19" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度4" lvl_level="2" val_max="200" val_min="0" restore_max="200" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度4" lvl_level="2" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度4" lvl_level="2" val_max="50" val_min="0" restore_max="50" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E11>
+  <E12 equip_no="235" equip_nm="四合1气体检测5" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度5" lvl_level="2" val_max="25" val_min="19" restore_max="25" restore_min="19" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度5" lvl_level="2" val_max="200" val_min="0" restore_max="200" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度5" lvl_level="2" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度5" lvl_level="2" val_max="50" val_min="0" restore_max="50" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E12>
+  <E13 equip_no="236" equip_nm="四合1气体检测6" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度6" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度6" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度6" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度6" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E13>
+  <E14 equip_no="237" equip_nm="四合1气体检测7" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度7" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度7" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度7" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度7" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E14>
+  <E15 equip_no="238" equip_nm="四合1气体检测8" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="O2浓度8" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="CO浓度8" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="CO2浓度8" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="可燃浓度8" lvl_level="0" val_max="5000" val_min="0" restore_max="5000" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E15>
+  <E16 equip_no="251" equip_nm="空气质量检测1" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="PM2.5浓度1" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="PM10浓度1" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E16>
+  <E17 equip_no="252" equip_nm="空气质量检测2" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="2">
+      <YC0 yc_no="1" yc_nm="PM2.5浓度2" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="PM10浓度2" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E17>
+  <E18 equip_no="271" equip_nm="噪音传感器1" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="1">
+      <YC0 yc_no="1" yc_nm="噪音1" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E18>
+  <E19 equip_no="272" equip_nm="噪音传感器2" proc_advice="1.电池放空。2.通讯板故障。3.通讯线故障。4.监控机串口故障。如故障为一，充电后可自动恢复，如为后几种，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="1">
+      <YC0 yc_no="1" yc_nm="噪音2" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E19>
+  <E20 equip_no="342" equip_nm="液位检测(电缆夹层)" proc_advice="1.掉电。2.通讯线故障。3.电源连接线故障。4.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="控制器通讯故障" contacted="通讯恢复正常">
+    <yc_group count="4">
+      <YC0 yc_no="1" yc_nm="液位1" lvl_level="3" val_max="0.1" val_min="0" restore_max="0.1" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="液位2" lvl_level="3" val_max="0.5" val_min="0" restore_max="0.5" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="液位3" lvl_level="3" val_max="0.1" val_min="0" restore_max="0.1" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="液位4" lvl_level="3" val_max="0.1" val_min="0" restore_max="0.1" restore_min="0" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E20>
+  <E21 equip_no="550" equip_nm="电池检测" proc_advice="1.电源掉电。2.通讯线路故障。3.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="158">
+      <YC0 yc_no="1" yc_nm="电流" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC1 yc_no="2" yc_nm="总电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC2 yc_no="3" yc_nm="电池1电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC3 yc_no="4" yc_nm="电池2电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC4 yc_no="5" yc_nm="电池3电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC5 yc_no="6" yc_nm="电池4电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC6 yc_no="7" yc_nm="电池5电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC7 yc_no="8" yc_nm="电池6电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC8 yc_no="9" yc_nm="电池7电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC9 yc_no="10" yc_nm="电池8电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC10 yc_no="11" yc_nm="电池9电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC11 yc_no="12" yc_nm="电池10电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC12 yc_no="13" yc_nm="电池11电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC13 yc_no="14" yc_nm="电池12电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC14 yc_no="15" yc_nm="电池13电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC15 yc_no="16" yc_nm="电池14电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC16 yc_no="17" yc_nm="电池15电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC17 yc_no="18" yc_nm="电池16电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC18 yc_no="19" yc_nm="电池17电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC19 yc_no="20" yc_nm="电池18电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC20 yc_no="21" yc_nm="电池19电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC21 yc_no="22" yc_nm="电池20电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC22 yc_no="23" yc_nm="电池21电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC23 yc_no="24" yc_nm="电池22电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC24 yc_no="25" yc_nm="电池23电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC25 yc_no="26" yc_nm="电池24电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC26 yc_no="27" yc_nm="电池25电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC27 yc_no="28" yc_nm="电池26电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC28 yc_no="29" yc_nm="电池27电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC29 yc_no="30" yc_nm="电池28电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC30 yc_no="31" yc_nm="电池29电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC31 yc_no="32" yc_nm="电池30电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC32 yc_no="33" yc_nm="电池31电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC33 yc_no="34" yc_nm="电池32电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC34 yc_no="35" yc_nm="电池33电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC35 yc_no="36" yc_nm="电池34电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC36 yc_no="37" yc_nm="电池35电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC37 yc_no="38" yc_nm="电池36电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC38 yc_no="39" yc_nm="电池37电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC39 yc_no="40" yc_nm="电池38电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC40 yc_no="41" yc_nm="电池39电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC41 yc_no="42" yc_nm="电池40电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC42 yc_no="43" yc_nm="电池41电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC43 yc_no="44" yc_nm="电池42电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC44 yc_no="45" yc_nm="电池43电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC45 yc_no="46" yc_nm="电池44电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC46 yc_no="47" yc_nm="电池45电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC47 yc_no="48" yc_nm="电池46电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC48 yc_no="49" yc_nm="电池47电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC49 yc_no="50" yc_nm="电池48电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC50 yc_no="51" yc_nm="电池49电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC51 yc_no="52" yc_nm="电池50电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC52 yc_no="53" yc_nm="电池51电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC53 yc_no="54" yc_nm="电池52电压" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC54 yc_no="55" yc_nm="电池1内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC55 yc_no="56" yc_nm="电池2内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC56 yc_no="57" yc_nm="电池3内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC57 yc_no="58" yc_nm="电池4内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC58 yc_no="59" yc_nm="电池5内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC59 yc_no="60" yc_nm="电池6内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC60 yc_no="61" yc_nm="电池7内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC61 yc_no="62" yc_nm="电池8内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC62 yc_no="63" yc_nm="电池9内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC63 yc_no="64" yc_nm="电池10内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC64 yc_no="65" yc_nm="电池11内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC65 yc_no="66" yc_nm="电池12内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC66 yc_no="67" yc_nm="电池13内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC67 yc_no="68" yc_nm="电池14内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC68 yc_no="69" yc_nm="电池15内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC69 yc_no="70" yc_nm="电池16内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC70 yc_no="71" yc_nm="电池17内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC71 yc_no="72" yc_nm="电池18内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC72 yc_no="73" yc_nm="电池19内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC73 yc_no="74" yc_nm="电池20内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC74 yc_no="75" yc_nm="电池21内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC75 yc_no="76" yc_nm="电池22内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC76 yc_no="77" yc_nm="电池23内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC77 yc_no="78" yc_nm="电池24内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC78 yc_no="79" yc_nm="电池25内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC79 yc_no="80" yc_nm="电池26内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC80 yc_no="81" yc_nm="电池27内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC81 yc_no="82" yc_nm="电池28内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC82 yc_no="83" yc_nm="电池29内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC83 yc_no="84" yc_nm="电池30内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC84 yc_no="85" yc_nm="电池31内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC85 yc_no="86" yc_nm="电池32内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC86 yc_no="87" yc_nm="电池33内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC87 yc_no="88" yc_nm="电池34内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC88 yc_no="89" yc_nm="电池35内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC89 yc_no="90" yc_nm="电池36内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC90 yc_no="91" yc_nm="电池37内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC91 yc_no="92" yc_nm="电池38内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC92 yc_no="93" yc_nm="电池39内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC93 yc_no="94" yc_nm="电池40内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC94 yc_no="95" yc_nm="电池41内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC95 yc_no="96" yc_nm="电池42内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC96 yc_no="97" yc_nm="电池43内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC97 yc_no="98" yc_nm="电池44内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC98 yc_no="99" yc_nm="电池45内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC99 yc_no="100" yc_nm="电池46内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC100 yc_no="101" yc_nm="电池47内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC101 yc_no="102" yc_nm="电池48内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC102 yc_no="103" yc_nm="电池49内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC103 yc_no="104" yc_nm="电池50内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC104 yc_no="105" yc_nm="电池51内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC105 yc_no="106" yc_nm="电池52内阻" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC106 yc_no="107" yc_nm="电池1温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC107 yc_no="108" yc_nm="电池2温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC108 yc_no="109" yc_nm="电池3温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC109 yc_no="110" yc_nm="电池4温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC110 yc_no="111" yc_nm="电池5温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC111 yc_no="112" yc_nm="电池6温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC112 yc_no="113" yc_nm="电池7温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC113 yc_no="114" yc_nm="电池8温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC114 yc_no="115" yc_nm="电池9温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC115 yc_no="116" yc_nm="电池10温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC116 yc_no="117" yc_nm="电池11温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC117 yc_no="118" yc_nm="电池12温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC118 yc_no="119" yc_nm="电池13温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC119 yc_no="120" yc_nm="电池14温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC120 yc_no="121" yc_nm="电池15温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC121 yc_no="122" yc_nm="电池16温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC122 yc_no="123" yc_nm="电池17温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC123 yc_no="124" yc_nm="电池18温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC124 yc_no="125" yc_nm="电池19温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC125 yc_no="126" yc_nm="电池20温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC126 yc_no="127" yc_nm="电池21温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC127 yc_no="128" yc_nm="电池22温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC128 yc_no="129" yc_nm="电池23温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC129 yc_no="130" yc_nm="电池24温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC130 yc_no="131" yc_nm="电池25温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC131 yc_no="132" yc_nm="电池26温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC132 yc_no="133" yc_nm="电池27温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC133 yc_no="134" yc_nm="电池28温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC134 yc_no="135" yc_nm="电池29温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC135 yc_no="136" yc_nm="电池30温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC136 yc_no="137" yc_nm="电池31温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC137 yc_no="138" yc_nm="电池32温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC138 yc_no="139" yc_nm="电池33温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC139 yc_no="140" yc_nm="电池34温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC140 yc_no="141" yc_nm="电池35温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC141 yc_no="142" yc_nm="电池36温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC142 yc_no="143" yc_nm="电池37温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC143 yc_no="144" yc_nm="电池38温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC144 yc_no="145" yc_nm="电池39温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC145 yc_no="146" yc_nm="电池40温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC146 yc_no="147" yc_nm="电池41温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC147 yc_no="148" yc_nm="电池42温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC148 yc_no="149" yc_nm="电池43温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC149 yc_no="150" yc_nm="电池44温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC150 yc_no="151" yc_nm="电池45温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC151 yc_no="152" yc_nm="电池46温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC152 yc_no="153" yc_nm="电池47温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC153 yc_no="154" yc_nm="电池48温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC154 yc_no="155" yc_nm="电池49温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC155 yc_no="156" yc_nm="电池50温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC156 yc_no="157" yc_nm="电池51温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+      <YC157 yc_no="158" yc_nm="电池52温度" lvl_level="0" val_max="50" val_min="10" restore_max="50" restore_min="10" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice=""/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E21>
+  <E22 equip_no="903" equip_nm="控制模块1" proc_advice="1.24V开关电源掉电。2.通讯线故障。3.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="0"/>
+    <yx_group count="4">
+      <YX0 yx_no="1" yx_nm="水泵1" level_d="1" level_r="2" evt_01="打开" evt_10="关闭" proc_advice_d="请查看" proc_advice_r="请查看"/>
+      <YX1 yx_no="2" yx_nm="水泵2" level_d="1" level_r="2" evt_01="打开" evt_10="关闭" proc_advice_d="请查看" proc_advice_r="请查看"/>
+      <YX2 yx_no="3" yx_nm="水泵3" level_d="1" level_r="2" evt_01="打开" evt_10="关闭" proc_advice_d="请查看" proc_advice_r="请查看"/>
+      <YX3 yx_no="4" yx_nm="水泵4" level_d="1" level_r="2" evt_01="打开" evt_10="关闭" proc_advice_d="请查看" proc_advice_r="请查看"/>
+    </yx_group>
+  </E22>
+  <E23 equip_no="921" equip_nm="模拟量采集单元1" proc_advice="1.电源掉电。2.通讯线路故障。3.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="12">
+      <YC0 yc_no="1" yc_nm="温度1采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度1采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="温度2采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="湿度2采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC4 yc_no="5" yc_nm="温度3采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC5 yc_no="6" yc_nm="湿度3采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC6 yc_no="7" yc_nm="温度4采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC7 yc_no="8" yc_nm="湿度4采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC8 yc_no="9" yc_nm="温度5采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC9 yc_no="10" yc_nm="湿度5采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC10 yc_no="11" yc_nm="温度6采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC11 yc_no="12" yc_nm="湿度6采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E23>
+  <E24 equip_no="922" equip_nm="模拟量采集单元2" proc_advice="1.电源掉电。2.通讯线路故障。3.监控机串口故障。如故障为第一种，来电之后自动恢复，如为后几种故障，请与我司联系。" out_of_contact="通讯故障" contacted="通讯恢复正常">
+    <yc_group count="12">
+      <YC0 yc_no="1" yc_nm="温度7采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC1 yc_no="2" yc_nm="湿度7采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC2 yc_no="3" yc_nm="温度8采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC3 yc_no="4" yc_nm="湿度8采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC4 yc_no="5" yc_nm="液位1采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC5 yc_no="6" yc_nm="液位2采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC6 yc_no="7" yc_nm="液位3采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC7 yc_no="8" yc_nm="液位4采集" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC8 yc_no="9" yc_nm="采集9" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC9 yc_no="10" yc_nm="采集10" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC10 yc_no="11" yc_nm="采集11" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+      <YC11 yc_no="12" yc_nm="采集12" lvl_level="0" val_max="20" val_min="4" restore_max="20" restore_min="4" outmax_evt="过高，当前值=%.1f" outmin_evt="过低,当前值=%.1f" proc_advice="请查看"/>
+    </yc_group>
+    <yx_group count="0"/>
+  </E24>
+</AllEquipCfgPack>

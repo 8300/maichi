@@ -1,0 +1,15 @@
+TIMEOUT         15	
+ABORT  '\nBUSY\r'	
+ABORT  '\nNO ANSWER\r'
+ABORT  '\nNO DIALTONE\r'
+ABORT  '\nERROR\r'	
+TIMEOUT         120	
+''              AT	
+''              AT	
+''              AT	
+''              AT	
+OK              ATS0=0	
+OK              AT+CGDCONT=1,"IP","APN"
+OK		AT+CGDCONT=1,"IP","CTNET"
+OK		ATD#777
+CONNECT         ''

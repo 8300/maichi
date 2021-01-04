@@ -1,0 +1,295 @@
+src/mqtt.c(284)-self_init->into mqtt
+src/mqtt.c(301)-self_init->Unable to connect.
+src/mqtt.c(274)-my_connect_callback->subscribe:+/modbus_server/#
+src/mqtt.c(372)-soft_get_self->p->payload:{"name":["软件接口序号","硬件接口序号","端口号","设备地址","越限百分比","公共地址长度","传送原因长度","信息体地址长度","链路地址长度","是否平衡","域名","ip地址","遥信类型","遥测类型","时标类型"],"value":[["35","41","4321","1","(null)","(null)","(null)","(null)","(null)","(null)","(null)","","(null)","(null)","(null)"]]}
+src/mqtt.c(399)-hard_get_condition->p->payload:{"name":["硬件接口序号","波特率","数据位","校验位","停止位","文件节点","ip地址","网关","DNS1","DNS2","APN","用户名","密码"],"value":[["41","(null)","(null)","(null)","(null)","eth1","192.168.2.177","192.168.2.1","(null)","(null)","(null)","(null)","(null)"]]}
+src/modbus_server.c(63)-data_update->wait data map set
+src/modbus_server.c(87)-modbuss_run->into thread****************
+hard node:eth1
+src/modbus_server.c(63)-data_update->wait data map set
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:445
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:431
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:431
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:427
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:427
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:413
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:413
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:392
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:392
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:409
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:409
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:414
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:414
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:417
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:417
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:408
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:408
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:402
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:402
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:404
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:404
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:399
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:399
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:403
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:403
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:398
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:398
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:404
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:404
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:413
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:413
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:414
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:414
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:398
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:398
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:407
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:407
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:406
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:420
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:420
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:421
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:421
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:417
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:417
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:415
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:415
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:418
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:418
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:412
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:408
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:408
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:0
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data_update->input regs[0]:410
+src/modbus_server.c(72)-data_update->输入寄存器
+src/modbus_server.c(78)-data

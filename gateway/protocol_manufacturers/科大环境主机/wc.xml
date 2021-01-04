@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<EquipCfgPack Count="157"> 
+  <E0 equip_no="1000" equip_nm="本体配电室侧门口1温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E0>  
+  <E1 equip_no="1001" equip_nm="本体配电室正门口2温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E1>  
+  <E2 equip_no="1002" equip_nm="本体配电室西侧3温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E2>  
+  <E3 equip_no="1003" equip_nm="本体配电室北侧4温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E3>  
+  <E4 equip_no="1004" equip_nm="本体配电室出线间5湿温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E4>  
+  <E5 equip_no="1005" equip_nm="本体配电室东北侧6温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E5>  
+  <E6 equip_no="1006" equip_nm="本体配电室东南侧7温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E6>  
+  <E7 equip_no="1007" equip_nm="本体配电室南侧8温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E7>  
+  <E8 equip_no="1008" equip_nm="本体配电室工具间9温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E8>  
+  <E9 equip_no="1009" equip_nm="本体配电室南侧地下1液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E9>  
+  <E10 equip_no="1010" equip_nm="本体配电室西北地下2液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E10>  
+  <E11 equip_no="1011" equip_nm="本体配电室北侧地下3液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E11>  
+  <E12 equip_no="1100" equip_nm="048配电室东南侧1温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E12>  
+  <E13 equip_no="1101" equip_nm="048配电室西南侧2温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E13>  
+  <E14 equip_no="1102" equip_nm="048配电室西侧3温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E14>  
+  <E15 equip_no="1103" equip_nm="048配电室西北4温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E15>  
+  <E16 equip_no="1104" equip_nm="048配电室东北侧5温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E16>  
+  <E17 equip_no="1105" equip_nm="048配电室东侧6温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E17>  
+  <E18 equip_no="1106" equip_nm="048配电室东北侧地下1液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E18>  
+  <E19 equip_no="1107" equip_nm="048配电室东侧地下2液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E19>  
+  <E20 equip_no="1108" equip_nm="048配电室西侧地下3液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E20>  
+  <E21 equip_no="1200" equip_nm="总配电室西侧1温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E21>  
+  <E22 equip_no="1201" equip_nm="总配电室南侧2温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E22>  
+  <E23 equip_no="1202" equip_nm="总配电室东侧3温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E23>  
+  <E24 equip_no="1203" equip_nm="总配电室北侧4温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E24>  
+  <E25 equip_no="1204" equip_nm="主控室南侧5温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E25>  
+  <E26 equip_no="1205" equip_nm="主控室北侧6温湿度" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="温度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="湿度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E26>  
+  <E27 equip_no="1206" equip_nm="总配电室东侧地下1液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E27>  
+  <E28 equip_no="1207" equip_nm="总配电室西侧地下2液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E28>  
+  <E29 equip_no="1208" equip_nm="主控室地下3液位" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="液位" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E29>  
+  <E30 equip_no="1300" equip_nm="本体配电室北侧1噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E30>  
+  <E31 equip_no="1301" equip_nm="本体配电室东侧2噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E31>  
+  <E32 equip_no="1302" equip_nm="048配电室南侧3噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E32>  
+  <E33 equip_no="1303" equip_nm="048配电室西南侧4噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E33>  
+  <E34 equip_no="1304" equip_nm="048配电室西侧5噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E34>  
+  <E35 equip_no="1305" equip_nm="048配电室西北侧6噪音" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="噪音" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E35>  
+  <E36 equip_no="1400" equip_nm="本体配电室侧门口1粉尘" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E36>  
+  <E37 equip_no="1401" equip_nm="本体配电室正门口2粉尘" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E37>  
+  <E38 equip_no="1402" equip_nm="总配电室3粉尘" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E38>  
+  <E39 equip_no="1403" equip_nm="048配电室西南侧4粉尘" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E39>  
+  <E40 equip_no="1404" equip_nm="048配电室西北侧5粉尘" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="2"> 
+      <YC0 yc_no="1" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/>  
+      <YC1 yc_no="2" yc_nm="粉尘" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E40>  
+  <E41 equip_no="1500" equip_nm="本体配电室侧门口1氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E41>  
+  <E42 equip_no="1501" equip_nm="本体配电室侧门口1可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E42>  
+  <E43 equip_no="1502" equip_nm="本体配电室侧门口1一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E43>  
+  <E44 equip_no="1503" equip_nm="本体配电室侧门口1二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E44>  
+  <E45 equip_no="1504" equip_nm="本体配电室正门口2氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E45>  
+  <E46 equip_no="1505" equip_nm="本体配电室正门口2可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E46>  
+  <E47 equip_no="1506" equip_nm="本体配电室正门口2一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E47>  
+  <E48 equip_no="1507" equip_nm="本体配电室正门口2二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E48>  
+  <E49 equip_no="1508" equip_nm="本体配电室西侧3氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E49>  
+  <E50 equip_no="1509" equip_nm="本体配电室西侧3可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E50>  
+  <E51 equip_no="1510" equip_nm="本体配电室西侧3一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E51>  
+  <E52 equip_no="1511" equip_nm="本体配电室西侧3二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E52>  
+  <E53 equip_no="1512" equip_nm="本体配电室北侧4氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E53>  
+  <E54 equip_no="1513" equip_nm="本体配电室北侧4可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E54>  
+  <E55 equip_no="1514" equip_nm="本体配电室北侧4一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E55>  
+  <E56 equip_no="1515" equip_nm="本体配电室北侧4二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E56>  
+  <E57 equip_no="1516" equip_nm="本体配电室出线间5氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E57>  
+  <E58 equip_no="1517" equip_nm="本体配电室出线间5可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E58>  
+  <E59 equip_no="1518" equip_nm="本体配电室出线间5一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E59>  
+  <E60 equip_no="1519" equip_nm="本体配电室出线间5二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E60>  
+  <E61 equip_no="1520" equip_nm="本体配电室东北侧6氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E61>  
+  <E62 equip_no="1521" equip_nm="本体配电室东北侧6可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E62>  
+  <E63 equip_no="1522" equip_nm="本体配电室东北侧6一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E63>  
+  <E64 equip_no="1523" equip_nm="本体配电室东北侧6二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E64>  
+  <E65 equip_no="1524" equip_nm="本体配电室东南侧7氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E65>  
+  <E66 equip_no="1525" equip_nm="本体配电室东南侧7可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E66>  
+  <E67 equip_no="1526" equip_nm="本体配电室东南侧7一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E67>  
+  <E68 equip_no="1527" equip_nm="本体配电室东南侧7二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E68>  
+  <E69 equip_no="1528" equip_nm="本体配电室南侧8氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E69>  
+  <E70 equip_no="1529" equip_nm="本体配电室南侧8可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E70>  
+  <E71 equip_no="1530" equip_nm="本体配电室南侧8一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E71>  
+  <E72 equip_no="1531" equip_nm="本体配电室南侧8二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E72>  
+  <E73 equip_no="1532" equip_nm="本体配电室南侧地下9氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E73>  
+  <E74 equip_no="1533" equip_nm="本体配电室南侧地下9可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E74>  
+  <E75 equip_no="1534" equip_nm="本体配电室南侧地下9一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E75>  
+  <E76 equip_no="1535" equip_nm="本体配电室南侧地下9二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E76>  
+  <E77 equip_no="1536" equip_nm="本体配电室西北地下10氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E77>  
+  <E78 equip_no="1537" equip_nm="本体配电室西北地下10可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E78>  
+  <E79 equip_no="1538" equip_nm="本体配电室西北地下10一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E79>  
+  <E80 equip_no="1539" equip_nm="本体配电室西北地下10二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E80>  
+  <E81 equip_no="1540" equip_nm="本体配电室北侧地下11氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E81>  
+  <E82 equip_no="1541" equip_nm="本体配电室北侧地下11可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E82>  
+  <E83 equip_no="1542" equip_nm="本体配电室北侧地下11一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E83>  
+  <E84 equip_no="1543" equip_nm="本体配电室北侧地下11二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E84>  
+  <E85 equip_no="1600" equip_nm="048配电室东南侧12氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E85>  
+  <E86 equip_no="1601" equip_nm="048配电室东南侧12可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E86>  
+  <E87 equip_no="1602" equip_nm="048配电室东南侧12一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E87>  
+  <E88 equip_no="1603" equip_nm="048配电室西南侧12二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E88>  
+  <E89 equip_no="1604" equip_nm="048配电室西南侧13氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E89>  
+  <E90 equip_no="1605" equip_nm="048配电室西南侧13可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E90>  
+  <E91 equip_no="1606" equip_nm="048配电室西南侧13一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E91>  
+  <E92 equip_no="1607" equip_nm="048配电室西南侧13二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E92>  
+  <E93 equip_no="1608" equip_nm="048配电室西侧14氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E93>  
+  <E94 equip_no="1609" equip_nm="048配电室西侧14可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E94>  
+  <E95 equip_no="1610" equip_nm="048配电室西侧14一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E95>  
+  <E96 equip_no="1611" equip_nm="048配电室西侧14二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E96>  
+  <E97 equip_no="1612" equip_nm="048配电室西北15氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E97>  
+  <E98 equip_no="1613" equip_nm="048配电室西北15可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E98>  
+  <E99 equip_no="1614" equip_nm="048配电室西北15一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E99>  
+  <E100 equip_no="1615" equip_nm="048配电室西北15二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E100>  
+  <E101 equip_no="1616" equip_nm="048配电室东北侧16氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E101>  
+  <E102 equip_no="1617" equip_nm="048配电室东北侧16可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E102>  
+  <E103 equip_no="1618" equip_nm="048配电室东北侧16一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E103>  
+  <E104 equip_no="1619" equip_nm="048配电室东北侧16二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E104>  
+  <E105 equip_no="1620" equip_nm="048配电室东侧17氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E105>  
+  <E106 equip_no="1621" equip_nm="048配电室东侧17可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E106>  
+  <E107 equip_no="1622" equip_nm="048配电室东侧17一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E107>  
+  <E108 equip_no="1623" equip_nm="048配电室东侧17二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E108>  
+  <E109 equip_no="1624" equip_nm="048配电室东北侧地下18氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E109>  
+  <E110 equip_no="1625" equip_nm="048配电室东北侧地下18可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E110>  
+  <E111 equip_no="1626" equip_nm="048配电室东北侧地下18一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E111>  
+  <E112 equip_no="1627" equip_nm="048配电室东北侧地下18二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E112>  
+  <E113 equip_no="1628" equip_nm="048配电室东侧地下19氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E113>  
+  <E114 equip_no="1629" equip_nm="048配电室东侧地下19可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E114>  
+  <E115 equip_no="1630" equip_nm="048配电室东侧地下19一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E115>  
+  <E116 equip_no="1631" equip_nm="048配电室东侧地下19二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E116>  
+  <E117 equip_no="1632" equip_nm="048配电室西侧地下20氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E117>  
+  <E118 equip_no="1633" equip_nm="048配电室西侧地下20可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E118>  
+  <E119 equip_no="1634" equip_nm="048配电室西侧地下20一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E119>  
+  <E120 equip_no="1635" equip_nm="048配电室西侧地下20二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E120>  
+  <E121 equip_no="2100" equip_nm="总配电室西侧21氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E121>  
+  <E122 equip_no="2101" equip_nm="总配电室西侧21可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E122>  
+  <E123 equip_no="2102" equip_nm="总配电室西侧21一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E123>  
+  <E124 equip_no="2103" equip_nm="总配电室西侧21二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E124>  
+  <E125 equip_no="2104" equip_nm="总配电室西侧22氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E125>  
+  <E126 equip_no="2105" equip_nm="总配电室南侧22可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E126>  
+  <E127 equip_no="2106" equip_nm="总配电室南侧22一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E127>  
+  <E128 equip_no="2107" equip_nm="总配电室南侧22二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E128>  
+  <E129 equip_no="2108" equip_nm="总配电室东侧23氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E129>  
+  <E130 equip_no="2109" equip_nm="总配电室东侧23燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E130>  
+  <E131 equip_no="2110" equip_nm="总配电室东侧23一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E131>  
+  <E132 equip_no="2111" equip_nm="总配电室东侧23二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E132>  
+  <E133 equip_no="2112" equip_nm="总配电室北侧24氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E133>  
+  <E134 equip_no="2113" equip_nm="总配电室北侧24可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E134>  
+  <E135 equip_no="2114" equip_nm="总配电室北侧24一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E135>  
+  <E136 equip_no="2115" equip_nm="总配电室北侧24二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E136>  
+  <E137 equip_no="2116" equip_nm="主控室南侧25氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E137>  
+  <E138 equip_no="2117" equip_nm="主控室南侧25可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E138>  
+  <E139 equip_no="2118" equip_nm="主控室南侧25一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E139>  
+  <E140 equip_no="2119" equip_nm="主控室南侧25二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E140>  
+  <E141 equip_no="2120" equip_nm="主控室北侧26氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E141>  
+  <E142 equip_no="2121" equip_nm="主控室北侧26可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E142>  
+  <E143 equip_no="2122" equip_nm="主控室北侧26一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E143>  
+  <E144 equip_no="2123" equip_nm="主控室北侧26二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E144>  
+  <E145 equip_no="2124" equip_nm="总配电室东侧地下27氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E145>  
+  <E146 equip_no="2125" equip_nm="总配电室东侧地下27可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E146>  
+  <E147 equip_no="2126" equip_nm="总配电室东侧地下27一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E147>  
+  <E148 equip_no="2127" equip_nm="总配电室东侧地下27二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E148>  
+  <E149 equip_no="2128" equip_nm="总配电室西侧地下28氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E149>  
+  <E150 equip_no="2129" equip_nm="总配电室西侧地下28可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E150>  
+  <E151 equip_no="2130" equip_nm="总配电室西侧地下28一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E151>  
+  <E152 equip_no="2131" equip_nm="总配电室西侧地下28二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E152>  
+  <E153 equip_no="2132" equip_nm="主控室地下29氧气" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E153>  
+  <E154 equip_no="2133" equip_nm="主控室地下29可燃气体" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E154>  
+  <E155 equip_no="2134" equip_nm="主控室地下29一氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E155>  
+  <E156 equip_no="2135" equip_nm="主控室地下29二氧化碳" proc_advice="检查电源及线路" out_of_contact="通讯失败" contacted="通讯恢复"> 
+    <yc_group Count="1"> 
+      <YC0 yc_no="1" yc_nm="浓度" lvl_level="3" val_max="30" val_min="0" restore_max="28" restore_min="2" outmax_evt="越上限" outmin="越下限" proc_advice=""/> 
+    </yc_group> 
+  </E156>
+</EquipCfgPack>
