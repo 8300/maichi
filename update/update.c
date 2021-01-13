@@ -86,10 +86,13 @@ void process_dir(const char *path, func_file_code ffc, void *ptr)
 	closedir(dir);
 	fclose(Fdest);
 }
-
-int main()
+void main(int argc, char **argv)
 {
 	char *p = "pre.html";
-	process_dir("../doc", NULL, p);
+	if (argc > 1) {
+		process_dir(argv[1], NULL, p);
+	} else {
+		printf("Usage: update [PATH]\n");
+	}
 }
 
